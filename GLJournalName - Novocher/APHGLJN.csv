@@ -1,0 +1,24 @@
+JournalName,Name,Journal type,New voucher,Use group voucher,Account type,Posting layer,Detail level,Fees posting,Currency,Offset account,Selection by,NumberSequenceDefault,GroupVoucher
+AP-PS,p,Vendor disbursement,In connection with balance,P,Ledger,Current,Details,Keep fees in journal,THB,,,AP-PS2101,AP-PS-G
+AP-PV,p,Vendor disbursement,In connection with balance,P,Ledger,Current,Details,Keep fees in journal,THB,,,AP-PV2101,AP-PV-G
+FA-FA,p,Post fixed assets,In connection with balance,P,Ledger,Current,Details,Keep fees in journal,THB,,,FA-FA2101,FA-FA-G
+FA-FC,p,Post fixed assets,In connection with balance,P,Ledger,Current,Details,Keep fees in journal,THB,,,FA-FC2101,FA-FC-G
+FA-FD,p,Post fixed assets,In connection with balance,P,Ledger,Current,Details,Keep fees in journal,THB,,,FA-FD2101,FA-FD-G
+FA-FI,p,Post fixed assets,In connection with balance,P,Ledger,Current,Details,Keep fees in journal,THB,,,FA-FI2101,FA-FI-G
+FA-FS,p,Post fixed assets,In connection with balance,P,Ledger,Current,Details,Keep fees in journal,THB,,,FA-FS2101,FA-FS-G
+FA-FZA,OB-Acquisition,Post fixed assets,In connection with balance,P,Ledger,Current,Details,Keep fees in journal,THB,,,FA-FZA2101,FA-FZA-G
+FA-FZD,OB-Depreciation,Post fixed assets,In connection with balance,P,Ledger,Current,Details,Keep fees in journal,THB,,,FA-FZD2101,FA-FZD-G
+GJ-AD,Advance Employee,Daily,In connection with balance,P,Ledger,Current,Details,Keep fees in journal,THB,,,GJ-AD2101,GJ-AD-G
+GJ-BT,Bank Transfer,Daily,In connection with balance,P,Ledger,Current,Details,Keep fees in journal,THB,,,GJ-BT2101,GJ-BT-G
+GJ-BW,Bank Transfer- Withdrawal,Daily,In connection with balance,P,Ledger,Current,Details,Keep fees in journal,THB,,,GJ-BW2101,GJ-BW-G
+GJ-CD,Clear Advance Employee,Daily,In connection with balance,P,Ledger,Current,Details,Keep fees in journal,THB,,,GJ-CD2101,GJ-CD-G
+GJ-CR,Credit Invoice Journal,Daily,In connection with balance,P,Ledger,Current,Details,Keep fees in journal,THB,,,GJ-CR2101,GJ-CR-G
+GJ-GCL,p,Daily,In connection with balance,P,Ledger,Current,Details,Keep fees in journal,THB,,,GJ-GCL2101,GJ-GCL-G
+GJ-OBS,Opening Balance,Daily,In connection with balance,P,Ledger,Current,Details,Keep fees in journal,THB,,,GJ-OBS2101,GJ-OBS-G
+GJ-OR,p,Daily,In connection with balance,P,Ledger,Current,Details,Keep fees in journal,THB,,,GJ-OR2101,GJ-OR-G
+GJ-PC,Petty Cash,Daily,In connection with balance,P,Ledger,Current,Details,Keep fees in journal,THB,,,GJ-PC2101,GJ-PC-G
+GJ-PV,p,Daily,In connection with balance,P,Ledger,Current,Details,Keep fees in journal,THB,,,GJ-PV2101,GJ-PV-G
+GJ-RR,Invoice Journal,Daily,In connection with balance,P,Ledger,Current,Details,Keep fees in journal,THB,,,GJ-RR2101,GJ-RR-G
+PI-RR,Invoice Journal,Daily,In connection with balance,P,Ledger,Current,Details,Keep fees in journal,THB,,,GJ-RR2101,GJ-RR-G
+PR-RR,Invoice Journal,Daily,In connection with balance,P,Ledger,Current,Details,Keep fees in journal,THB,,,GJ-RR2101,GJ-RR-G
+RV-RV,Receive Journal,Customer payment,One voucher number only,P,Ledger,Current,Details,Keep fees in journal,THB,,,RV-RV2101,RV-RV-G

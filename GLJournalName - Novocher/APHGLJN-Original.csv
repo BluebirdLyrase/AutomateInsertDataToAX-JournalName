@@ -1,0 +1,24 @@
+JournalName,Name,Journal type,New voucher,Use group voucher,Account type,Posting layer,Detail level,Fees posting,Currency,Offset account,Selection by,NumberSequenceDefault,GroupVoucher
+AP-BBA,Advance AP Foreign A,Vendor disbursement,One voucher number only,P,Ledger,Current,Details,Keep fees in journal,THB,,,AP-BBA2101,AP-BBA-G
+AP-OVA,Expenses Book,Vendor disbursement,One voucher number only,P,Ledger,Current,Details,Keep fees in journal,THB,,,GJ-OVA2101,GJ-OVA-G
+AP-PTA,Payment AP Book,Vendor disbursement,One voucher number only,P,Ledger,Current,Details,Keep fees in journal,THB,,,AP-PTA2101,AP-PTA-G
+AP-WTA,Payment AP Book,Vendor disbursement,One voucher number only,P,Ledger,Current,Details,Keep fees in journal,THB,,,AP-WTA2101,AP-WTA-G
+FA-FAC,a,Post fixed assets,In connection with balance,P,Ledger,Current,Summary,Keep fees in journal,THB,,,FA-FAC2101,FA-FAC-G
+FA-FDP,a,Post fixed assets,One voucher number only,P,Ledger,Current,Summary,Keep fees in journal,THB,,,FA-FDP2101,FA-FDP-G
+FA-FIP,a,Post fixed assets,In connection with balance,P,Ledger,Current,Details,Keep fees in journal,THB,,,FA-FIP2101,FA-FIP-G
+FA-FSC,a,Post fixed assets,In connection with balance,P,Ledger,Current,Summary,Keep fees in journal,THB,,,FA-FSC2101,FA-FSC-G
+FA-FSS,a,Post fixed assets,In connection with balance,P,Ledger,Current,Summary,Keep fees in journal,THB,,,FA-FSS2101,FA-FSS-G
+GJ-ADZ,P-Advance,Daily,One voucher number only,P,Ledger,Current,Details,Keep fees in journal,THB,,,GJ-ADZ2101,GJ-ADZ-G
+GJ-ABT,Bank Transfer-Book,Daily,One voucher number only,P,Ledger,Current,Details,Keep fees in journal,THB,,,GJ-ABT2101,GJ-ABT-G
+GJ-BFF,Bank Transfer-Book A bank charge,Daily,One voucher number only,P,Ledger,Current,Details,Keep fees in journal,THB,,,GJ-BFF2101,GJ-BFF-G
+GJ-BTF,Bank Transfer-Book A tranfer,Daily,One voucher number only,P,Ledger,Current,Details,Keep fees in journal,THB,,,GJ-BTF2101,GJ-BTF-G
+GJ-BWD,Bank Transfer-Book A withdrawal,Daily,One voucher number only,P,Ledger,Current,Details,Keep fees in journal,THB,,,GJ-BWD2101,GJ-BWD-G
+GJ-CDA,P-Clear Advance-A,Daily,One voucher number only,P,Ledger,Current,Details,Keep fees in journal,THB,,,GJ-CDA2101,GJ-CDA-G
+GJ-JVA,Journal Voucher-Book,Daily,One voucher number only,P,Ledger,Current,Details,Keep fees in journal,THB,,,GJ-JVA2101,GJ-JVA-G
+GJ-ORA,Other Cash Receive Journal,Daily,One voucher number only,P,Ledger,Current,Details,Keep fees in journal,THB,,,GJ-ORA2101,GJ-ORA-G
+GJ-OVA,Expenses,Daily,One voucher number only,P,Ledger,Current,Details,Keep fees in journal,THB,,,GJ-OVA2101,GJ-OVA-G
+GJ-PCA,Petty Cash,Daily,One voucher number only,P,Ledger,Current,Details,Keep fees in journal,THB,,,GJ-PCA2101,GJ-PCA-G
+GJ-WTA,Payment AP,Daily,One voucher number only,P,Ledger,Current,Details,Keep fees in journal,THB,,,AP-WTA2101,AP-WTA-G
+PI-APXA,P-Invoice Expenses,Vendor invoice recording,One voucher number only,P,Ledger,Current,Details,Keep fees in journal,THB,,,AP-XA2101,PI-APXA-G
+PI-CNPA,Credit Memo Purchase,Vendor invoice recording,One voucher number only,P,Ledger,Current,Details,Keep fees in journal,THB,,,CN-PA2101,PI-CNPA-G
+RV-RVA,Cash Receive Journal,Customer payment,One voucher number only,P,Ledger,Current,Details,Keep fees in journal,THB,,,RV-RVA2101,RV-RVA-G
